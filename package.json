@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-default",
+  "version": "0.1.0",
+  "description": "eslint-default-config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/70-10/eslint-config-default.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/70-10/eslint-config-default/issues"
+  },
+  "homepage": "https://github.com/70-10/eslint-config-default#readme",
+  "devDependencies": {
+    "eslint": "3.2.0"
+  }
+}
