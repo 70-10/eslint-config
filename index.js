@@ -25,7 +25,7 @@ module.exports = {
     "computed-property-spacing": "error",
     "default-case": "warn",
     "eol-last": "error",
-    "indent": ["error", 2, {"SwitchCase": 1}],
+    "indent": ["error", 2, {SwitchCase: 1, MemberExpression: 1}],
     "key-spacing": ["error", {beforeColon: false, afterColon: true}],
     "linebreak-style": ["error", "unix"],
     "new-cap": ["error", {newIsCap: true}],
